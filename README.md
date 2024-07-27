@@ -15,7 +15,7 @@
 
 #
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://avatars.dzeninfra.ru/get-zen_doc/1879615/pub_64febfeb2cd63233b875f8e9_64fec3c2b0453c4684c19bc7/orig"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://miro.medium.com/v2/resize:fit:1360/1*Awi84KRY_5cFk9P0cIhtrw.gif"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
