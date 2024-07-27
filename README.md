@@ -1,4 +1,4 @@
-![logo-nginx-white-on-green](https://github.com/user-attachments/assets/c7a55ef2-b09f-4bf5-b4f1-5ab1e8d13f48)<h1 align="center">
+<h1 align="center">
   <img src="GIF/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
@@ -12,6 +12,11 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/Enak1n) !
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+
+#
+
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://avatars.dzeninfra.ru/get-zen_doc/1879615/pub_64febfeb2cd63233b875f8e9_64fec3c2b0453c4684c19bc7/orig"/>
+<br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
