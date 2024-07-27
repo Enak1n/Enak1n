@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png](https://logos-download.com/wp-content/uploads/2024/01/Csharp_Logo.png"/></code>
+<code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2024/01/Csharp_Logo.png"/></code> 
 
 <details open="">
 <summary>
