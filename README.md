@@ -38,6 +38,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>
 <code><img height="40" width="40" src="https://krivoshein.site/wp-content/uploads/2024/04/logo-nginx-white-on-green.png"/></code>
+<code><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"/></code>
 
 <br/>
 
