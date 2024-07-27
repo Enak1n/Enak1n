@@ -70,11 +70,10 @@
     <code><img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/vkontakte-512.png"/></code>
   </a>
   <a href="https://t.me/Enak1n" target="_blank">
-    <code><img  height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png/></code>
+    <code><img  height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png"/></code>
   </a>
   <a href="https://www.instagram.com/dendcsgo/" target="_blank">
     <code><img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png"/></code>
   </a> 
-  <br/>
 </p>
 
