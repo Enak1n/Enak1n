@@ -15,7 +15,7 @@
 
 #
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://miro.medium.com/v2/resize:fit:1360/1*Awi84KRY_5cFk9P0cIhtrw.gif"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://habrastorage.org/getpro/habr/upload_files/ad6/576/5bc/ad65765bca7b9884a53c2fb3da714193.gif"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
